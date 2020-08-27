@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691032965870",
+    "firebase_url": "https://nahora-96e56.firebaseio.com",
+    "project_id": "nahora-96e56",
+    "storage_bucket": "nahora-96e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691032965870:android:70421f21af462cda3da9ff",
+        "android_client_info": {
+          "package_name": "com.example.vintepilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691032965870-e4msdd19frjl7rjs4t92eammu8t86n5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoRMhBCRgAZbaXob62qHmPG3Kvyvv9XTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691032965870-e4msdd19frjl7rjs4t92eammu8t86n5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
